@@ -1,0 +1,28 @@
+html {
+    padding: 0;
+    margin: 0;
+    box-sizing: content-box;
+}
+
+body {
+    font-size: 62.5%;
+}
+
+.sousMenu{
+    display: inline;
+    color: white;
+    padding: 1rem;
+}
+.menuLine1 {
+    font-size: 1.5rem;
+}
+
+.menu {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 5rem;
+    background-image: url("https://interactive.wttw.com/sites/default/files/styles/post_featured/public/images/2020/01/27/Orion-Betelgeuse.jpg?itok=CTXa2Xyi");
+    text-align: center;
+}
